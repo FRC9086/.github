@@ -1,4 +1,3 @@
-FRC team 9086 Wildcat Robotics.
-Public code databases are here for the team.
+FRC 9086 Wildcat Robotics is a FIRST Robotics Competition (FRC) team in Richmond Hill, Georgia.
 
 Find us at https://www.frc9086.com
